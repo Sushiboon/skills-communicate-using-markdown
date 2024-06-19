@@ -1,4 +1,4 @@
-######this is an example 
+ 
 
 - [x] List syntax is required
 - [x] This item is complete
